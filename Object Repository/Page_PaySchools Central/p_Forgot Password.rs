@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Forgot Password</name>
+   <tag></tag>
+   <elementGuidId>f5e8ed31-4ae9-489c-96a9-fe83fa0b4166</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='modalDir']/app-root/app-full-layout/div/div/app-login/div/div/div/div/form/div/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Forgot Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>672e264c-de3b-4c2a-981f-f5a2f3f23252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-link</value>
+      <webElementGuid>7988a8fc-0378-4a50-8191-aee4462324a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot Password</value>
+      <webElementGuid>f2c90da6-1625-4832-aff3-b69ff223d1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalDir&quot;)/app-root[1]/app-full-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bg-mobile&quot;]/div[@class=&quot;bg-overlay&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid d-xl-block&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 ps-card-login&quot;]/div[@class=&quot;main&quot;]/form[@class=&quot;login-screen ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;text-right&quot;]/a[1]/p[@class=&quot;text-link&quot;]</value>
+      <webElementGuid>b7c37a34-4dd2-4c97-af2d-bca165e7462b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='modalDir']/app-root/app-full-layout/div/div/app-login/div/div/div/div/form/div/a/p</value>
+      <webElementGuid>ca0039ec-3163-4a89-bc96-3415e36a5ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::p[1]</value>
+      <webElementGuid>76c33568-65bf-463d-9496-1f97a87ec4d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::p[1]</value>
+      <webElementGuid>e2eee98a-35e8-4aec-9310-2611f46fbee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To obtain a paper Free/Reduced meal application, please contact your school district.'])[1]/preceding::p[1]</value>
+      <webElementGuid>ad900d2d-2a8d-49be-95d1-25206ac5e57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[1]/preceding::p[1]</value>
+      <webElementGuid>f9863ba6-0d33-4e32-b640-0e8c34441354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot Password']/parent::*</value>
+      <webElementGuid>0b7d2943-a07b-44b8-949e-3a4053b8c7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>43d330af-3dbe-4e45-a857-c0616f2911f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Forgot Password' or . = 'Forgot Password')]</value>
+      <webElementGuid>fbbeb5da-ed6d-4c59-a5b6-1dcc93390612</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
