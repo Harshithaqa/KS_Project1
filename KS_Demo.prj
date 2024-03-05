@@ -7,8 +7,9 @@
    <createdVersion>9.3.1</createdVersion>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\HarshithaTN\Katalon Studio\KS_Demo\KS_Demo.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\HarshithaTN\Katalon Studio\Repos\KS_Project1\KS_Demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
